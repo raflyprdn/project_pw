@@ -1,0 +1,52 @@
+.containers {
+	margin-top: 110px; 
+	margin-left:550px; 
+	padding-left: 50px; 
+	padding-top: 20px; 
+	background: rgba(0, 0, 0, 0.7);
+	width: 450px; 
+	height: 375px; 
+	color: #FFF;
+}
+
+.form {
+	width: 350px;
+}
+
+.tbl {
+	margin-left: 15px;
+}
+
+.image {
+	width: 540px;
+	height: auto;
+}
+
+.bg-grey{
+	background-color: #dedcd7;
+}
+
+.font-dark{
+	color: #343a40;
+}
+
+.font-light{
+	color: #FFF;
+}
+
+#biodata
+{
+	background-color: #dedcd7;
+	background-size: cover;
+}
+
+#login {
+	background: url(../../image/hero_4.jpg);
+	background-size: cover;
+}
+
+.tabel {
+	width: 1300px; 
+	margin-left: 115px; 
+	margin-top: 40px;
+}
